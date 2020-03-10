@@ -22,4 +22,5 @@ def line_simple(array)
   puts current_line
 end 
   
-line_simple(katz_deli)  
+line_simple(katz_deli)
+
