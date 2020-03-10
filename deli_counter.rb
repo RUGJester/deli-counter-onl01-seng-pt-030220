@@ -39,6 +39,3 @@ def now_serving(line)
     line.shift
   end
 end
-
-puts now_serving(katz_deli)
-puts katz_deli
